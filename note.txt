@@ -1,0 +1,12 @@
+Node Js:
+>Node.js is an open-source, cross-platform JavaScript runtime environment.(to run JavaScript out side of the browser)
+>We can create servers from node.js but we use express.js to make it easy.
+>Node.js is built upon Google Chrome's V8 engine.
+>A Node.js app runs in a single process, without creating a new thread for every request. 
+
+
+Express js:
+>Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, 
+and hybrid web application.
+>It's a layer built on the top of the Node js that helps manage servers and routes.
+>We can create API's easyly using Express.js
